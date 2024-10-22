@@ -4,6 +4,7 @@ venv/
 # PyInstaller directory
 dist/
 build/
+*.spec
 
 # Python cache files
 __pycache__/
